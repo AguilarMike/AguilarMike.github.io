@@ -1,7 +1,7 @@
 ---
 title: "post2"
 description: |
-  A short description of the post.
+  Did this work? 
 categories: 
   - somecat
 author:
@@ -18,6 +18,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Works? 
 ```{r}
 library(car)
 hist(cars$speed)
