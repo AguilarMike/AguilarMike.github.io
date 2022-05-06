@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-06T11:15:06-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Index Title",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-06T11:15:06-04:00"
+    },
+    {
+      "path": "resources.html",
+      "title": "Resources",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\nR Glossary\r\nwww.aguilarmike.github.io/docs/QuantFinancialEconInR.html\r\nIntro to FRED\r\nwww.aguilarmike.github.io/docs/IntroToFRED.pdf\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-06T11:18:10-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

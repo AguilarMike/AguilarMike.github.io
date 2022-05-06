@@ -1,0 +1,40 @@
+[
+  {
+    "path": "posts/2022-05-06-post2/",
+    "title": "post2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-05-06",
+    "categories": [
+      "somecat"
+    ],
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-05-06-post2/post2_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-05-06T11:24:19-04:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to AguilarBlog",
+    "description": "Welcome to our new blog, AguilarBlog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-05-06",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-05-06T11:11:14-04:00",
+    "input_file": {}
+  }
+]
